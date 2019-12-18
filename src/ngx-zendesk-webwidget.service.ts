@@ -80,7 +80,7 @@ export class ngxZendeskWebwidgetService {
     this.window.zE(() => {
       this.window.zE.identify(userObj)
     })
-  }
+  } 
 
   public hide() {
     this.window.zE(() => {
