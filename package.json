@@ -30,10 +30,10 @@
     "url": "https://github.com/leandrodiniz/ngx-zendesk-webwidget/issues"
   },
   "devDependencies": {
-    "@angular/common": "^12.2.0",
-    "@angular/compiler": "^12.2.0",
-    "@angular/compiler-cli": "^12.2.0",
-    "@angular/core": "^12.2.0",
+    "@angular/common": "^12.2.13",
+    "@angular/compiler": "^12.2.13",
+    "@angular/compiler-cli": "^12.2.16",
+    "@angular/core": "^12.2.13",
     "@angular/platform-browser": "^12.2.13",
     "@angular/platform-browser-dynamic": "^12.2.13",
     "@compodoc/compodoc": "^1.1.10",
@@ -81,6 +81,6 @@
   "jsnext:main": "dist/ng-zendesk-webwidget.js",
   "typings": "dist/ng-zendesk-webwidget.d.ts",
   "dependencies": {
-    "@angular/cli": "^8.1.2"
+    "@angular/cli": "^12.2.16"
   }
 }
