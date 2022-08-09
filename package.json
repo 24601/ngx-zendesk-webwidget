@@ -39,7 +39,7 @@
     "@compodoc/compodoc": "^1.1.10",
     "@types/jasmine": "2.8.4",
     "@types/node": "9.3.0",
-    "codelyzer": "4.1.0",
+    "codelyzer": "^6.0.2",
     "core-js": "2.5.3",
     "del": "3.0.0",
     "gulp": "^4.0.2",
